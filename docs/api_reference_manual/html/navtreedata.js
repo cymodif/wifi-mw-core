@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "WiFi middleware core", "index.html", [
+  [ "Cypress WiFi middleware core", "index.html", [
     [ "Overview", "index.html", null ],
     [ "API Reference", "modules.html", "modules" ]
   ] ]
@@ -8,7 +8,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"group__generic__lwip__whd__port__defines.html"
+"group__group__bsp__network__buffer.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

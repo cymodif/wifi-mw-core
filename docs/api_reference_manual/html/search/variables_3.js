@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['role',['role',['../structcy__lwip__nw__interface__t.html#a350faf72a26775d6931bfc0fd7cf6455',1,'cy_lwip_nw_interface_t']]]
+  ['gateway',['gateway',['../structip__static__addr__t.html#ad135b4541779fed17ef74e30b24d0604',1,'ip_static_addr_t']]]
 ];
